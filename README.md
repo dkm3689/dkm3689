@@ -33,7 +33,7 @@
 
 ### 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyansh-m-97b87a176?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuKCvtXRZShuIigDbyur2CA%3D%3D)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)]([https://github.com/dkm3689?tab=repositories])  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/dkm3689?tab=repositories)
 
 ---
 
