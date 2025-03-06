@@ -3,8 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </p>
 
+<p align="center">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Backend+Enthusiast;React.js+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Building+Scalable+Apps+%F0%9F%9A%80)
-
+</p>
 ---
 
 ### 🚀 About Me
