@@ -16,18 +16,21 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Divyansh Mishra!
 
+![Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Full-Stack+Developer+%7C+Backend+Enthusiast;Building+Scalable+Web+Apps+🚀)
+
 🚀 **Full-Stack Developer | Backend Enthusiast**  
 💡 Passionate about building scalable applications and solving real-world problems.  
-🔧 **Tech Stack:** Node.js, Express.js, React.js, MongoDB, Firebase  
+🔧 Tech Stack: **Node.js, Express.js, React.js, MongoDB, Firebase**  
+📌 Currently working on an **IRCTC-like Train Booking App** - allowing users to book trains, view booking history, and authenticate with Firebase.  
 
-## 🌟 Featured Projects  
-- 🚆 **IRCTC-Like Booking App** – A railway ticket booking system built with React.js & Node.js, featuring real-time seat availability, secure payments, and user authentication.  
-- 🎵 **iPod Simulation** – A React.js-based interactive music player with smooth UI transitions.  
-- 💰 **Expense Tracker** – A personal finance management app to track income and expenses.  
+## 🌟 Featured Projects
+- 🎵 **iPod Simulation** - A React.js-based interactive music player.
+- 💰 **Expense Tracker** - A React app for managing personal finances.
+- 🚆 **IRCTC Clone** - A train booking app using React and Firebase.
 
-## 📫 Connect with me  
+📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-url)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](your-github-url)  
 
 ---
-Feel free to reach out for collaborations or discussions on tech and innovation! 🚀
+⭐ **Fun Fact:** "Code is like humor. When you have to explain it, it’s bad." 😄  
