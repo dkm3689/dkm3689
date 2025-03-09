@@ -10,10 +10,9 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on an **IRCTC-like train booking app** using **React.js & Firebase**.  
-- 🎯 Passionate about backend development, cloud integration, and scalable applications.  
-- 💡 Always exploring new technologies & open to collaboration.  
-- 📖 Learning **advanced system design & distributed computing**.  
-
+- 🎯 Passionate about **backend development, cloud integration**, and scalable applications.  
+- 💡 Always **exploring new technologies** & open to collaboration.  
+- 🚀 Enthusiastic about o**ptimizing performance and enhancing user experience** through efficient coding practices.
 ---
 
 ### 🛠️ Tech Stack  
