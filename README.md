@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/Bcrypt-FF9A00?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 ---
 
 ### 🌟 Featured Projects  
