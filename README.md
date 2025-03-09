@@ -25,7 +25,9 @@
 
 ### 🌟 Featured Projects  
 🏥 **Healthcare Management System** - Built a platform with secure authentication, and profile management using Node.js, Express.js, and MongoDB.
+</br>
 🚆 **IRCTC Booking App** - A train booking platform for train booking & history tracking.
+</br>
 💰 **Expense Tracker** - A financial management app built with React.js.  
 
 ---
