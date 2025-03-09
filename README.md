@@ -24,8 +24,8 @@
 ---
 
 ### 🌟 Featured Projects  
-🚆 **IRCTC Booking App** - A train booking platform with real-time availability & history tracking.  
-🎵 **iPod Simulation** - An interactive React.js-based music player with a custom UI.  
+🏥 **Healthcare Management System** - Built a platform with secure authentication, and profile management using Node.js, Express.js, and MongoDB.
+🚆 **IRCTC Booking App** - A train booking platform for train booking & history tracking.
 💰 **Expense Tracker** - A financial management app built with React.js.  
 
 ---
