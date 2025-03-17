@@ -1,6 +1,12 @@
 <h1 align="center">Hi there! 👋 I'm Divyansh Mishra</h1>
-📧 Email: [dmishraa195@gmail.com](mailto:dmishraa195@gmail.com)  
-📞 Phone: +91 9265036207, +91 9111575229
+
+### Get in Touch
+
+- **Email:** [dmishraa195@gmail.com](mailto:dmishraa195@gmail.com)
+- **Phone:**  
+  📱 +91 9265036207  
+  📱 +91 9111575229
+
 
 
 <p align="center">
