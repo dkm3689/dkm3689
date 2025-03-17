@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! 👋 I'm Divyansh Mishra</h1>
 
-### Get in Touch
+## Contact Me! ✨
 
-- **Email:** [dmishraa195@gmail.com](mailto:dmishraa195@gmail.com)
-- **Phone:**  
-  📱 +91 9265036207  
-  📱 +91 9111575229
+Want to reach out? You can contact me through the following:
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-dmishraa195@gmail.com-blue?style=for-the-badge)](mailto:dmishraa195@gmail.com)  
+[![Call Me](https://img.shields.io/badge/Phone%20Numbers-%2B91%209265036207%20%7C%20%2B91%209111575229-green?style=for-the-badge)](tel:+919265036207)
 
 
 
