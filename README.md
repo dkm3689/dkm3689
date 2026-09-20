@@ -1,69 +1,38 @@
-<h1 align="center">Hi there! 👋 I'm Divyansh Mishra</h1>    
+# Divyansh Mishra
 
+Full-stack engineer. I build production APIs, AI-powered tools, and workflow systems — mostly with Node.js, TypeScript, Python, and Next.js.
 
-## Contact Me! ✨
+Previously shipped a payment + logistics integration (Razorpay + Pidge) for a live order management system. Open to freelance projects.
 
-Want to reach out? You can contact me through the following:
-
-[![Email Me](https://img.shields.io/badge/Email%20Me-dmishraa195@gmail.com-blue?style=for-the-badge)](mailto:dmishraa195@gmail.com)  
-[![Call Me](https://img.shields.io/badge/Phone%20Numbers-%2B91%209265036207%20%7C%20%2B91%209111575229-green?style=for-the-badge)](tel:+919265036207)
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Enthusiast;React.js+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Building+Scalable+Apps+%F0%9F%9A%80" />
-</p>
-
-
-### 🚀 About Me
-- 🔭 Currently working on an **IRCTC-like train booking app** using **React.js & Firebase**.  
-- 🎯 Passionate about **backend development, cloud integration**, and scalable applications.  
-- 💡 Always **exploring new technologies** & open to collaboration.  
-- 🚀 Enthusiastic about o**ptimizing performance and enhancing user experience** through efficient coding practices.
----
-
-### 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bcrypt-FF9A00?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
----
-
-### 🌟 Featured Projects  
-🏥 **Healthcare Management System** - Built a platform with secure authentication, and profile management using Node.js, Express.js, and MongoDB.
-</br>
-🚆 **IRCTC Booking App** - A train booking platform for train booking & history tracking.
-</br>
-💰 **Expense Tracker** - A financial management app built with React.js.  
+📬 dkm1480@gmail.com
 
 ---
 
-### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyansh-m-97b87a176?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuKCvtXRZShuIigDbyur2CA%3D%3D)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/dkm3689?tab=repositories)
+## Projects
+
+**[doc-intelligence](https://github.com/dkm3689/doc-intelligence)** — RAG chatbot over uploaded documents (PDF/TXT). Uses hybrid retrieval: Gemini embeddings + Pinecone for semantic search, BM25 for keyword matching, fused with Reciprocal Rank Fusion, then re-ranked by Cohere's cross-encoder. Stack: Next.js 16, Gemini, Pinecone, Cohere, Clerk, Supabase.
+
+**[AI Resume Analyser](https://github.com/dkm3689/AI-Resume-Analyser)** — Upload a resume, get an ATS score, detected skills, issue list, and rewritten bullet points. Structured JSON output from GPT-4o — no free-text parsing. [[live demo]](https://ai-resume-analyser-ochre-eta.vercel.app)
+
+**[hotel-orchestrator](https://github.com/dkm3689/hotel-orchestrator)** — Aggregates hotel offers from multiple suppliers in parallel using Temporal.io workflows. Redis sorted sets for O(log N) price-range queries. Full Docker Compose setup. Stack: Node.js, TypeScript, Temporal.io, Redis.
+
+**[ai-spend-guardrail](https://github.com/dkm3689/ai-spend-guardrail)** — Drop-in proxy for the Anthropic API. Enforces per-project budgets (alert / silent model downgrade / hard cap), Telegram alerts at spend thresholds, and a usage coach that flags context bloat and model waste. Stack: FastAPI, PostgreSQL, Upstash Redis, Next.js.
+
+**[realtime-chat-app](https://github.com/dkm3689/realtime-chat-app)** — Room-based chat with WebSockets, typing indicators, and online presence. PostgreSQL for message history, JWT auth. Stack: React, Node.js, Socket.io, PostgreSQL.
 
 ---
 
+## Stack
 
-⭐ **Fun Fact:** "Code is like humor. When you have to explain it, it’s bad." 😄
+**Languages:** TypeScript · JavaScript · Python  
+**Frontend:** React · Next.js · Tailwind CSS  
+**Backend:** Node.js · Express · FastAPI  
+**Databases:** PostgreSQL · MongoDB · Redis  
+**AI/ML:** OpenAI API · Gemini · Pinecone · Cohere  
+**Infrastructure:** Docker · Temporal.io · Vercel · Render  
+**Auth:** JWT · Clerk · Supabase Auth
 
+---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh_Mishra-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/divyansh-m-97b87a176)
+[![GitHub](https://img.shields.io/badge/GitHub-dkm3689-181717?style=flat&logo=github)](https://github.com/dkm3689)
